@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP 8570W\\Desktop\\ShopApi-main\\ShopApi-main\\ShopApi\\ShopApi\\wwwroot\\Images\\3KISE3EQXQJIVXHC.jpeg",
+      "PackagePath": "staticwebassets\\Images\\3KISE3EQXQJIVXHC.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP 8570W\\Desktop\\ShopApi-main\\ShopApi-main\\ShopApi\\ShopApi\\wwwroot\\Images\\KAVQQ252AXFJKFSA.jpeg",
+      "PackagePath": "staticwebassets\\Images\\KAVQQ252AXFJKFSA.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP 8570W\\Desktop\\ShopApi-main\\ShopApi-main\\ShopApi\\ShopApi\\wwwroot\\Images\\KCODE7CCQ2LOQC85.jpeg",
+      "PackagePath": "staticwebassets\\Images\\KCODE7CCQ2LOQC85.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP 8570W\\Desktop\\ShopApi-main\\ShopApi-main\\ShopApi\\ShopApi\\wwwroot\\Images\\KS9QC6PAXM6AK2ZE.jpeg",
+      "PackagePath": "staticwebassets\\Images\\KS9QC6PAXM6AK2ZE.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP 8570W\\Desktop\\ShopApi-main\\ShopApi-main\\ShopApi\\ShopApi\\wwwroot\\Images\\LZZATHQYE8F82ECU.jpeg",
+      "PackagePath": "staticwebassets\\Images\\LZZATHQYE8F82ECU.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP 8570W\\Desktop\\ShopApi-main\\ShopApi-main\\ShopApi\\ShopApi\\wwwroot\\Images\\OD239YV1EC4CX5Z0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\OD239YV1EC4CX5Z0.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShopApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShopApi.props",
+      "PackagePath": "build\\ShopApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopApi.props",
+      "PackagePath": "buildMultiTargeting\\ShopApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShopApi.props",
+      "PackagePath": "buildTransitive\\ShopApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
